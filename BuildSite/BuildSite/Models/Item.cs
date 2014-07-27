@@ -9,6 +9,7 @@ namespace BuildSite.Models
     {
         int id;
         string name;
+        // Hvar á líkamanum item-inn á að vera
         int slot;
         string[] primaryStat = new string[5];
         string[] secondaryStat = new string[3];

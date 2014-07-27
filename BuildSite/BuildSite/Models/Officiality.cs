@@ -8,6 +8,7 @@ namespace BuildSite.Models
     public class Officiality
     {
         int id;
+        // Er Buildið "approved" af Svenna
         bool officiality;
     }
 }
