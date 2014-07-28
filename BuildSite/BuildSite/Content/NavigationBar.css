@@ -1,20 +1,7 @@
-﻿#head-navbar {
-      
+﻿
+#head-navbar {
     color: #ffffff;
     margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#head-top h1 {
-    color: #333333;
-    font-size: 60px;
-    margin-left: 50px;
-}
-
-#head-top {
-    min-width: 740px;
-    max-width: 740px;
     margin-left: auto;
     margin-right: auto;
 }
