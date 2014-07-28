@@ -83,7 +83,7 @@ namespace BuildSite.Controllers
                 if (result.Succeeded)
                 {
                     await SignInAsync(user, isPersistent: false);
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Frontpage", "Home");
                 }
                 else
                 {
