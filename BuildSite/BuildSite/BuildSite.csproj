@@ -176,7 +176,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Images\Barb.png" />
-    <Content Include="Content\Images\class_cru_small.jpg" />
+    <Content Include="Content\Images\class_cru_small_normal.jpg" />
     <Content Include="Content\Images\Cru.jpg" />
     <Content Include="Content\Images\DH.png" />
     <Content Include="Content\Images\Monk.png" />

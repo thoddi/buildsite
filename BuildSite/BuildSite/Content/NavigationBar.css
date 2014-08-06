@@ -1,23 +1,11 @@
 ﻿
-#head-navbar {
-    color: #ffffff;
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 #navbar {
-    text-align: center;
     padding:0;
-    padding-top: 5px;
-    padding-bottom: 5px;
     margin-top: 20px;
     margin-left: auto;
-    margin-right: auto;
-    background-color: #333333;
-    border: 2px;
-    border-color: #000000;
-    border-style: solid;
+    margin-right: auto; 
 }
 
 #navbar ul {
@@ -38,20 +26,17 @@
     font-weight: bold;
     text-decoration: none;
     padding-left: 5px;
-    padding: 20px;
-    color: #ffffff;
-}
-
-#navbar li .tab:hover {
-    background-color: #9B1C26;
-    padding: 18px;
+    padding: 15px;
+    color: #333333;
+    background-color: #efc286;
     border: 2px;
     border-color: #333333;
     border-style: solid;
-    -webkit-border-top-left-radius: 15px;
-    -webkit-border-top-right-radius: 15px;
-    -moz-border-radius-topleft: 15px;
-    -moz-border-radius-topright: 15px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
+    border-radius: 15px;
+}
+
+#navbar li .tab:hover {
+    background-color: #d6733c;
+    padding: 16px;
+    
 }
